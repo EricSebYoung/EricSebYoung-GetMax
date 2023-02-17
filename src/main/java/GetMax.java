@@ -16,6 +16,6 @@ public class GetMax {
             }
         }
 
-        return maxValue;
+        return maxValue; 
     }
 }
